@@ -10,7 +10,7 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 
 ## Projects Done & Maintained
 WIP, but here is one.
-- https://vred.rip/ - Chrome & Firefox addon that you can use to create easy sharable video links in Discord(with sound 🔊) and have it preview in Discord and other apps
+- https://vred.rip/ - Chrome & Firefox addon that you can use to create easy sharable video links from reddit to Discord with sound 🔊(or other apps) with a preview and ability to play embedded.
 
 
 ## 📫 How to reach me
