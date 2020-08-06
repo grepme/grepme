@@ -6,7 +6,6 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 - IronSight, this is my day-to-day job
 - Yeg.dev, an Edmonton initiative. 
 - Flagpole, A modern feature flag SaaS that speaks your language and is free for all.
-- Web Share API to optimize images before being sent to Slack & Discord (Very Early)
 
 ## Projects Done & Maintained
 WIP, but here is one.
