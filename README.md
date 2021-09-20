@@ -4,11 +4,10 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 
 ## 🔭 I’m currently working on
 - IronSight, this is my day-to-day job
-- Yeg.dev, an Edmonton initiative. 
-- Flagpole, A modern feature flag SaaS that speaks your language and is free for all.
+- Yeg.dev, an Edmonton initiative.
+- https://signly.app/ -- Sales calculator for Signage
 
 ## Projects Done & Maintained
-WIP, but here is one.
 - https://vred.rip/ - Chrome & Firefox addon that you can use to create easy sharable video links from reddit to Discord with sound 🔊(or other apps) with a preview and ability to play embedded.
 
 
