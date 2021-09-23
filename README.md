@@ -5,7 +5,8 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 ## 🔭 I’m currently working on
 - https://ironsight.app/, this is my day-to-day job
 - Yeg.dev, an Edmonton initiative.
-- https://signly.app/ -- Sales calculator for signage
+- https://vaccinate.yeg.dev/, vaccination passports for Alberta that builds on top of the vaccine cards, but independently verifiable. In the process of open sourcing it.
+- https://signly.app/, Sales calculator for signage
 
 ## Projects Done & Maintained
 - https://vred.rip/ - Chrome & Firefox addon that you can use to create easy sharable video links from reddit to Discord with sound 🔊(or other apps) with a preview and ability to play embedded.
