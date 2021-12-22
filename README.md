@@ -3,7 +3,7 @@
 I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. With over 10 years of professional development and a major player in some of the fastest growing tech companies in Alberta. I'm always hacking away on the next big thing. 
 
 ## 🔭 I’m currently working on
-- https://ironsight.app/, this is my day-to-day job
+- https://borrowell.com, this is my day-to-day job
 - Yeg.dev, an Edmonton initiative.
 - https://vaccinate.yeg.dev/, vaccination passports for Alberta that builds on top of the vaccine cards, but independently verifiable. In the process of open sourcing it.
 - https://signly.app/, Sales calculator for signage
