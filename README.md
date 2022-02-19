@@ -10,6 +10,7 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 
 ## Projects Done & Maintained
 - https://vred.rip/ - Chrome & Firefox addon that you can use to create easy sharable video links from reddit to Discord with sound 🔊(or other apps) with a preview and ability to play embedded.
+- https://wordle.yeg.dev/ – A Worlde clone for those who need to challenge themselves to more than just 1 word a day 📝
 
 
 ## 📫 How to reach me
