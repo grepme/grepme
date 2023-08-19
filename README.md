@@ -5,7 +5,6 @@ I'm a software engineer, technical lead, and entrepreneur in the Edmonton area. 
 ## 🔭 I’m currently working on
 - https://muckrack.com, this is my day-to-day job
 - https://routine.dev/ - Onboard your team, not overboarding 🛟
-- https://signly.app/, Sales calculator for signage
 - Yeg.dev, an Edmonton initiative.
 - Other super secret inititives
 
